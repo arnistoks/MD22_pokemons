@@ -25,7 +25,7 @@ const PokemonPage = () => {
           <button
             className={styles.button}
             title="Previous pokemon"
-            hidden={data && data.id === 1}
+            hidden={data.id === 1}
             onClick={() => navigate(`/pokemon/${data && data.id - 1}`)}
           >
             <div className="button rotated__prev">

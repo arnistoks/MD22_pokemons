@@ -68,3 +68,14 @@
   width: 100%;
   justify-content: center;
 }
+
+.lineOfPages {
+  display: flex;
+  flex-direction: row;
+}
+
+.pages {
+  font-size: 40px;
+  color: #fbd72e;
+  text-shadow: 3px 3px 3px #e41711;
+}
