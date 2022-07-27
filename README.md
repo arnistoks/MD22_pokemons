@@ -1,3 +1,5 @@
+![pp](public/pokemon-page.gif "Pokemon Page")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
